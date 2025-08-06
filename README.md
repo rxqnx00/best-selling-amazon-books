@@ -13,7 +13,7 @@ This analysis examines a dataset of 550 best-selling books from Amazon, explorin
 
 ## 🎯 Inspiration
 
-This project is inspired by the comprehensive tutorial available at [Codédx](https://www.codedx.io/projects/analyze-spreadsheet-data-with-pandas-chatgpt), which provides an excellent foundation for data analysis using pandas and serves as a practical guide for exploring spreadsheet data.
+This project is inspired by the comprehensive tutorial available at [Codédex](https://www.codedex.io/projects/analyze-spreadsheet-data-with-pandas-chatgpt), which provides an excellent foundation for data analysis using pandas and serves as a practical guide for exploring spreadsheet data.
 
 ## 📈 Key Findings
 
